@@ -14,8 +14,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <title>
-          Horizon UI Boilerplate - Launch your startup project 10X in a few
-          moments - The best NextJS Boilerplate (This is an example)
+          CuraCV
         </title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {/* <!--  Social tags   --> */}
@@ -68,7 +67,7 @@ export default function RootLayout({
           content="Add here your website name / title"
         />
         <link rel="canonical" href="https://your-website.com" />
-        <link rel="icon" href="/img/favicon.ico" />
+        <link rel="icon" href="/img/favicon(2).ico" />
       </head>
       <body id={'root'} className="loading bg-white">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
